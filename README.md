@@ -1,2 +1,1 @@
-#### This project is for the Devops bootcamp exercise for 
-#### "Build Tools and Package Managers" 
+#### Practical DevOps project focused on build tools, package managers, Gradle workflows, and artifact management.
